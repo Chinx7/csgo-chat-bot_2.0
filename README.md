@@ -1,12 +1,19 @@
 # CS:GO Chat Bot 2.0
 
 Trying to enhance the chat bot with some functionality:
+
 //TODO:
+
 -show teams with average faceit elo //not possible
+
 -show premades //needs to be fully implemented
+
 -show elo of each player on the server
+
 /DONE:
+
 -show premades
+
 
 
 Rewrite of my csgo chat bot
