@@ -6,9 +6,9 @@ Trying to enhance the chat bot with some functionality:
 
 -show teams with average faceit elo //not possible
 
--show premades //needs to be fully implemented
+-show premades //function done, needs to be implemented
 
--show elo of each player on the server
+-show elo of each player on the server //function mostly done, needs to be implemented
 
 /DONE:
 
