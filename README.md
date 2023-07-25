@@ -1,5 +1,14 @@
 # CS:GO Chat Bot 2.0
 
+Trying to enhance the chat bot with some functionality:
+//TODO:
+-show teams with average faceit elo //not possible
+-show premades //needs to be fully implemented
+-show elo of each player on the server
+/DONE:
+-show premades
+
+
 Rewrite of my csgo chat bot
 
 A chatbot for CS:GO that reads the CS:GO console over telnet. The chat commands can be sent using the chat or the console.
@@ -19,7 +28,7 @@ Add your Steam and faceit API keys to the `config.py` file to get the `!info` co
 
 Run the chat bot:
 
-    python cscb.py
+    python csbot.py
 
 ## Chat commands
 
